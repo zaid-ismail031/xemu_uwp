@@ -1,1 +1,1 @@
-Please visit [https://xemu.app](https://xemu.app) for more information.
+Work-in-progress development of a UWP port of Xemu
